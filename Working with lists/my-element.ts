@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {LitElement, html} from 'lit';
 import {customElement} from 'lit/decorators.js';
 
@@ -24,4 +25,6 @@ class MyElement extends LitElement {
     `;
   }
 }
+=======
+>>>>>>> af017c43702f2b63e02dcf91fbb3f1d216ca3cef
 
